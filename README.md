@@ -1,2 +1,3 @@
-# VirusTotal-Context-Menu
-## WINDOWS ONLY
+# VirusTotal Context Menu
+### Usage
+Run installer.
