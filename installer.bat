@@ -25,11 +25,9 @@
 
 :getPrivileges
   if '%1'=='ELEV' (echo ELEV & shift /1 & goto gotPrivileges)
-  ECHO.
   ECHO **************************************
-  ECHO Invoking UAC for Privilege Escalation
+  ECHO Invoking UAC for Privilege Escalation.
   ECHO **************************************
-
   ECHO Set UAC = CreateObject^("Shell.Application"^) > "%vbsGetPrivileges%"
   ECHO args = "ELEV " >> "%vbsGetPrivileges%"
   ECHO For Each strArg in WScript.Arguments >> "%vbsGetPrivileges%"
@@ -57,6 +55,7 @@
  ::START
  ::::::::::::::::::::::::::::
  REM github/mirbyte
+ title VirusTotal Context Menu Installer (mirbyte)
  cls
  echo Enter your VirusTotal API key:
  set /p api_key=""
