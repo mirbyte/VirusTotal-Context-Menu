@@ -60,7 +60,10 @@
  cls
  echo Enter your VirusTotal API key:
  set /p api_key=""
- echo %api_key% > "files\api_key.txt"
+ :: FIX SPACES
+ for /f "delims=" %%a in ("%api_key%") do set api_key=%%a
+ echo|set /p="%api_key%" > "files\api_key.txt"
+
  cls
  echo Do you want to install the program to %ProgramFiles%\VirusTotalScanner?
  set /p confirm="Press Y for Yes, N for No: "
