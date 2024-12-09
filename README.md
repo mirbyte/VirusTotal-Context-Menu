@@ -1,2 +1,2 @@
 # VirusTotal-Context-Menu
-beep boop
+## WINDOWS ONLY
