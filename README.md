@@ -1,7 +1,7 @@
 # VirusTotal Context Menu
 ### Usage
 1. Download the newest VirusTotalCM.zip from "Releases"
-2. Extract
+2. Extract zip
 3. Run the installer.bat
 4. Done! You can delete the downloaded files now
 
