@@ -1,4 +1,4 @@
-# VirusTotal Context Menu
+# VTCM Scanner
 ### Usage
 1. Download the newest VirusTotalCM.zip from "Releases"
 2. Extract zip
