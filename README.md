@@ -2,6 +2,7 @@
 [![Latest Release](https://img.shields.io/github/release/mirbyte/VirusTotal-Context-Menu.svg?maxAge=86400)](https://github.com/mirbyte/VirusTotal-Context-Menu/releases/latest)
 [![Download Count](https://img.shields.io/github/downloads/mirbyte/VirusTotal-Context-Menu/total?color=blue&maxAge=86400)](https://github.com/mirbyte/VirusTotal-Context-Menu/releases)
 [![License](https://img.shields.io/github/license/mirbyte/VirusTotal-Context-Menu?color=blue&maxAge=604800)](https://raw.githubusercontent.com/mirbyte/VirusTotal-Context-Menu/master/LICENSE)
+[![Codecov](https://img.shields.io/github/codecov/mirbyte/VirusTotal-Context-Menu?color=blue&maxAge=86400)]()
 ### Usage
 1. Download the newest VirusTotalCM.zip from "Releases"
 2. Extract zip
