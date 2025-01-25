@@ -1,6 +1,6 @@
 # VTCM
 ![Size](https://img.shields.io/github/repo-size/mirbyte/VirusTotal-Context-Menu?label=Size&maxAge=86400)
-[![Latest Release](https://img.shields.io/github/release/mirbyte/VirusTotal-Context-Menu.svg?maxAge=86400&badge=Latest+Release)](https://github.com/mirbyte/VirusTotal-Context-Menu/releases/latest)
+[![Latest Release](https://img.shields.io/github/release/mirbyte/VirusTotal-Context-Menu.svg?maxAge=86400&label=Latest+Release)](https://github.com/mirbyte/VirusTotal-Context-Menu/releases/latest)
 [![Download Count](https://img.shields.io/github/downloads/mirbyte/VirusTotal-Context-Menu/total?color=blue&maxAge=86400)](https://github.com/mirbyte/VirusTotal-Context-Menu/releases)
 [![License](https://img.shields.io/github/license/mirbyte/VirusTotal-Context-Menu?color=blue&maxAge=604800)](https://raw.githubusercontent.com/mirbyte/VirusTotal-Context-Menu/master/LICENSE)
 ### Usage
