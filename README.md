@@ -7,7 +7,7 @@
 ### Usage
 1. Download the newest VTCM zip from [releases](https://github.com/mirbyte/VirusTotal-Context-Menu/releases)
 2. Extract zip
-3. Run the installer.bat
+3. Run the installer.bat as admin
 4. Done!
 
 
