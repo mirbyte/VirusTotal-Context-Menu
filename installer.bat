@@ -16,7 +16,7 @@ REM github/mirbyte
 
 chcp 65001 >nul
 
-title VirusTotal Context Menu Installer v1.3
+title VirusTotal Context Menu Installer
 
 setlocal ENABLEEXTENSIONS ENABLEDELAYEDEXPANSION
 
@@ -186,3 +186,4 @@ echo Installation cancelled. Edit the script for custom install location.
 echo Press any key to exit...
 pause >nul
 )
+
