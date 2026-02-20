@@ -22,4 +22,4 @@
 
 
 ### Note
-I am not affiliated with VirusTotal in any way. Use at your own risk. Check changelog on the Releases page.
+I am not affiliated with VirusTotal in any way. Use at your own risk.
